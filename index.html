@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Portfolio of Haja Mydeen - Full Stack Developer, DevOps Engineer & Data Trainer. Expert in Excel and Power BI.">
+    <meta name="keywords" content="Full Stack Developer, DevOps, Power BI, Excel Training, Web Development Portfolio">
+    <title>Haja Mydeen | Portfolio & Training</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:wght@700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <a href="#" class="logo">Haja C<span class="highlight">ode</span></a>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#services">Services</a></li>
+
+                <li><a href="#resources">Resources</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header id="home" class="hero parallax" data-speed="0.5">
+        <div class="hero-content fade-in-up">
+            <h1 id="hero-heading">Welcome</h1>
+            <p id="hero-subheading">Full Stack Developer</p>
+            <a href="#projects" class="btn primary-btn" id="hero-cta">View Work</a>
+        </div>
+        <div class="hero-bg"></div>
+    </header>
+
+    <main>
+        <!-- About Section -->
+        <section id="about" class="section">
+            <div class="container">
+                <h2 class="section-title">About Me</h2>
+                <div class="about-grid">
+                    <div class="about-text" id="about-text">
+                        <!-- Content injected via JS -->
+                    </div>
+                    <div class="skills-container" id="skills-list">
+                        <!-- Skills injected via JS -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="section alt-bg">
+            <div class="container">
+                <h2 class="section-title">Featured Projects</h2>
+                <div class="projects-grid" id="projects-grid">
+                    <!-- Projects injected via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Services Section -->
+        <section id="services" class="section">
+            <div class="container">
+                <h2 class="section-title">Services</h2>
+                <div class="services-grid" id="services-grid">
+                    <!-- Services injected via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Resources Section (Excel/Power BI) -->
+        <section id="resources" class="section parallax resources-bg" data-speed="0.3">
+            <div class="overlay"></div>
+            <div class="container relative-z">
+                <h2 class="section-title text-light">Student Resources</h2>
+                <p class="section-subtitle text-light">Download materials for Excel & Power BI workshops</p>
+                <div class="resources-list" id="resources-list">
+                    <!-- Resources injected via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Testimonials Carousel -->
+        <section id="testimonials" class="section">
+            <div class="container">
+                <h2 class="section-title">What People Say</h2>
+                <div class="carousel-container">
+                    <div class="carousel-track" id="testimonials-track">
+                        <!-- Testimonials injected via JS -->
+                    </div>
+                    <div class="carousel-dots" id="carousel-dots">
+                        <!-- Dots injected via JS -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Modern Contact Section -->
+        <section id="contact" class="section">
+            <div class="container">
+                <h2 class="section-title">Get In Touch</h2>
+                <div class="contact-grid">
+                    <div class="contact-image" style="background-image: url('assets/contact_hero.png');"></div>
+                    <div class="contact-form-container">
+                        <form class="contact-form" id="contact-form"
+                            style="border: none; padding: 0; box-shadow: none;">
+                            <div class="form-group">
+                                <label for="name">Name</label>
+                                <input type="text" id="name" name="name" required placeholder="John Doe">
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input type="email" id="email" name="email" required placeholder="john@example.com">
+                            </div>
+                            <div class="form-group">
+                                <label for="message">Message</label>
+                                <textarea id="message" name="message" rows="5" required
+                                    placeholder="How can we help you?"></textarea>
+                            </div>
+                            <button type="submit" class="btn primary-btn" style="width: 100%;">Send via Email</button>
+                            <a href="#" id="whatsapp-btn" class="btn whatsapp-btn text-light">
+                                <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+                            </a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-socials" id="footer-socials">
+                <!-- Socials injected via JS -->
+            </div>
+            <p>&copy; 2024 Haja Mydeen. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>

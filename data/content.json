@@ -1,0 +1,167 @@
+{
+    "profile": {
+        "name": "Haja Mydeen",
+        "title": "Full-Stack Developer & DevOps Trainer",
+        "tagline": "Building Scalable Systems & Empowering Future Tech Leaders",
+        "bio": "I bridge the gap between complex infrastructure and intuitive code. With years of experience in Full-Stack Development, DevOps automation, and Data Analytics with Excel & Power BI, I help businesses grow and individuals master the tools of the trade.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/haja-mydeen-221a46148/",
+            "github": "https://github.com/haja2611",
+            "twitter": "https://twitter.com",
+            "medium": "https://hajamydeen.medium.com/",
+            "email": "mailto:haja0786308@gmail.com"
+        }
+    },
+    "hero": {
+        "heading": "Code. Deploy. Analyze.",
+        "subheading": "Expertise in Full-Stack, DevOps, and Data Intelligence.",
+        "ctaText": "View My Work"
+    },
+    "about": {
+        "title": "About Me",
+        "description": "I am a passionate technologist dedicated to solving problems through code and data. My journey started with web development, evolved into cloud infrastructure, and expanded into data analytics teaching. I believe in clean code, automated pipelines, and data-driven decisions."
+    },
+    "skills": [
+        {
+            "category": "Development",
+            "items": [
+                "HTML/CSS/JS",
+                "Tailwind CSS",
+                "MUI",
+                "Bootstrap",
+                "React js",
+                "Node.js",
+                "Express.js",
+                "MongoDB",
+                "Python",
+                "Langchain"
+            ]
+        },
+        {
+            "category": "DevOps",
+            "items": [
+                "Docker",
+                "Kubernetes",
+                "AWS",
+                "CI/CD"
+            ]
+        },
+        {
+            "category": "Data",
+            "items": [
+                "Advanced Excel",
+                "Power BI",
+                "SQL",
+                "DAX"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Cloud Dashboard Pro",
+            "description": "A real-time comprehensive dashboard for monitoring cloud resources.",
+            "tech": [
+                "React",
+                "AWS SDK",
+                "Node.js"
+            ],
+            "link": "#",
+            "repo": "#",
+            "image": "assets/project1.png"
+        },
+        {
+            "title": "E-Learning Platform",
+            "description": "Custom LMS built for hosting DevOps and Data courses.",
+            "tech": [
+                "Next.js",
+                "PostgreSQL",
+                "Tailwind"
+            ],
+            "link": "#",
+            "repo": "#",
+            "image": "assets/project2.png"
+        },
+        {
+            "title": "Finance Tracker",
+            "description": "Personal finance app with Power BI integration for visualizations.",
+            "tech": [
+                "Python",
+                "Power BI Embed",
+                "Flask"
+            ],
+            "link": "#",
+            "repo": "#",
+            "image": "assets/project3.png"
+        }
+    ],
+    "services": [
+        {
+            "title": "Full-Stack Development",
+            "description": "Custom web applications built for performance and scale.",
+            "icon": "code"
+        },
+        {
+            "title": "DevOps Consulting",
+            "description": "Automate your infrastructure and deployment pipelines.",
+            "icon": "server"
+        },
+        {
+            "title": "Corporate Training",
+            "description": "Workshops on Excel, Power BI, and Cloud technologies.",
+            "icon": "database"
+        }
+    ],
+    "resources": {
+        "title": "Student Resources",
+        "description": "Download practice files for my Excel and Power BI workshops.",
+        "items": [
+            {
+                "name": "Advanced Excel Formulas Cheatsheet",
+                "file": "assets/excel_cheatsheet.xlsx",
+                "size": "1.2 MB"
+            },
+            {
+                "name": "Power BI Sales Dashboard Template",
+                "file": "assets/pbi_template.pbix",
+                "size": "4.5 MB"
+            },
+            {
+                "name": "DevOps CI/CD Diagram",
+                "file": "assets/cicd_flow.pdf",
+                "size": "0.5 MB"
+            }
+        ]
+    },
+    "testimonials": [
+        {
+            "name": "Abarna Gopal.",
+            "role": "Student",
+            "quote": "Haja mydeen sir is taking a Excel class and he is a very good sir and in future <br/> I am coming to Excel class in future thank you sir for a beautiful class ❤️",
+            "image": "assets/profile1.png",
+            "rating": 5
+        },
+        {
+            "name": "Deepa.",
+            "role": "Student",
+            "quote": "Haja mydeen , he's really good teacher thankyou sir for your valuable time spending for us.",
+            "image": "assets/profile2.png",
+            "rating": 5
+        },
+        {
+            "name": "Thilak Nath.",
+            "role": "Junior Developer",
+            "quote": "By the end of the internship, I was confident in my ability to develop full-stack applications.<br/> Overall, it was a great learning journey and a strong foundation for anyone aspiring to become a full-stack developer.",
+            "image": "assets/profile1.png",
+            "rating": 5
+        }
+    ],
+    "contact": {
+        "title": "Get In Touch",
+        "form": {
+            "nameLabel": "Name",
+            "emailLabel": "Email",
+            "messageLabel": "Message",
+            "submitBtn": "Send Message"
+        }
+    }
+}
