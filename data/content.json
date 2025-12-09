@@ -124,6 +124,11 @@
                 "name": "AdventureWorks Sales",
                 "file": "assets/AdventureWorks Sales.xlsx",
                 "size": "13.6 MB"
+            },
+            {
+                "name": "Tutorial From dimensional model to stunning report in Power BI Desktop",
+                "file": "assets/Tutorial dimensional model to stunning report in Power BI Desktop.pdf",
+                "size": "1.91 MB"
             }
         ]
     },
