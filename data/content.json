@@ -116,19 +116,44 @@
         "description": "Download practice files for my Excel and Power BI workshops.",
         "items": [
             {
+                "name": "Day 1 to 2",
+                "file": "assets/Day-1 to 2.xlsx",
+                "size": "31.1 KB"
+            },
+            {
+                "name": "Day 3 to 4",
+                "file": "assets/Day-3 to 4.xlsx",
+                "size": "17.5 KB"
+            },
+            {
+                "name": "Day 5",
+                "file": "assets/Day 5.xlsx",
+                "size": "10.3 KB"
+            },
+            {
+                "name": "Day 5 to 6 Power Query for ETL (Extract, Transform, Load)",
+                "file": "assets/Day 5 to 6  Power Query for ETL (Extract, Transform, Load).pdf",
+                "size": "138 KB"
+            },
+            {
+                "name": "Day 7 Tutorial Excel workbook to stunning report in Power BI Desktop",
+                "file": "assets/Day 7 Tutorial Excel workbook to stunning report in Power BI Desktop.pdf",
+                "size": "1.85 MB"
+            },
+            {
                 "name": "Financial Sample",
                 "file": "assets/Financial Sample.xlsx",
                 "size": "81.4 KB"
             },
             {
+                "name": "Day 8 to 9 Tutorial dimensional model to stunning report in Power BI Desktop",
+                "file": "assets/Day 8 to 9 Tutorial dimensional model to stunning report in Power BI Desktop.pdf",
+                "size": "1.91 MB"
+            },
+            {
                 "name": "AdventureWorks Sales",
                 "file": "assets/AdventureWorks Sales.xlsx",
                 "size": "13.6 MB"
-            },
-            {
-                "name": "Tutorial From dimensional model to stunning report in Power BI Desktop",
-                "file": "assets/Tutorial dimensional model to stunning report in Power BI Desktop.pdf",
-                "size": "1.91 MB"
             }
         ]
     },

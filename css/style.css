@@ -134,6 +134,21 @@ img {
     align-items: center;
 }
 
+.logo-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.nav-profile-pic {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: contain;
+    border: 2px solid var(--accent-color);
+    background: #AE7339;
+}
+
 .logo {
     font-size: 1.8rem;
     font-weight: 700;
