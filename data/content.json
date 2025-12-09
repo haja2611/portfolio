@@ -116,19 +116,14 @@
         "description": "Download practice files for my Excel and Power BI workshops.",
         "items": [
             {
-                "name": "Advanced Excel Formulas Cheatsheet",
-                "file": "assets/excel_cheatsheet.xlsx",
-                "size": "1.2 MB"
+                "name": "Financial Sample",
+                "file": "assets/Financial Sample.xlsx",
+                "size": "81.4 KB"
             },
             {
-                "name": "Power BI Sales Dashboard Template",
-                "file": "assets/pbi_template.pbix",
-                "size": "4.5 MB"
-            },
-            {
-                "name": "DevOps CI/CD Diagram",
-                "file": "assets/cicd_flow.pdf",
-                "size": "0.5 MB"
+                "name": "AdventureWorks Sales",
+                "file": "assets/AdventureWorks Sales.xlsx",
+                "size": "13.6 MB"
             }
         ]
     },
